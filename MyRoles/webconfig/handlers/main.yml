@@ -1,0 +1,6 @@
+---
+# handlers file for webconfig
+- name : service httpd
+  service :
+     name : httpd
+     state : started

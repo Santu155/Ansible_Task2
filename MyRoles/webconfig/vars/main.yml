@@ -1,0 +1,4 @@
+---
+# vars file for webconfig
+dcdir: "/var/www/santu"
+httpport: 81
